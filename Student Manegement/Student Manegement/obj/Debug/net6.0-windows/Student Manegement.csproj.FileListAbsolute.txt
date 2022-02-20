@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\Student Manegement.exe
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\Student Manegement.deps.json
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\Student Manegement.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\Student Manegement.dll
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\ref\Student Manegement.dll
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\bin\Debug\net6.0-windows\Student Manegement.pdb
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student_Manegement.Form1.resources
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.dll
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\ref\Student Manegement.dll
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.pdb
+C:\Users\PC\Documents\GitHub\Student Manegement\Student Manegement\Student Manegement\obj\Debug\net6.0-windows\Student Manegement.genruntimeconfig.cache
